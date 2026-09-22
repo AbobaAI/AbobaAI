@@ -1,12 +1,18 @@
 <div align="center">
 
-# hey, I'm AbobaAI
+<img src="assets/banner.png" alt="professional aboba" width="100%" />
 
-**Omarchy · Hyprland · Linux rice · tools that feel like home**
+<br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/AbobaAI?style=for-the-badge&logo=github&logoColor=white&color=BB9AF7)](https://github.com/AbobaAI)
-[![Omarchy](https://img.shields.io/badge/Omarchy-Hyprland-1a1b26?style=for-the-badge&labelColor=05010C&color=7dcfff)](https://omarchy.org/)
-[![Linux](https://img.shields.io/badge/Linux-desktop-1a1b26?style=for-the-badge&labelColor=05010C&color=9ece6a&logo=linux&logoColor=white)](https://archlinux.org/)
+<img src="assets/avatar.png" alt="aboba" width="140" />
+
+# aboba
+
+**professional aboba · accidental maintainer · yes this is the brand**
+
+[![followers](https://img.shields.io/github/followers/AbobaAI?style=flat-square&logo=github&logoColor=white&color=BB9AF7)](https://github.com/AbobaAI?tab=followers)
+[![omarchy](https://img.shields.io/badge/omarchy-i_live_here-BB9AF7?style=flat-square&labelColor=05010C)](https://omarchy.org/)
+[![status](https://img.shields.io/badge/status-ricing-9ece6a?style=flat-square&labelColor=05010C)](#)
 
 </div>
 
@@ -14,58 +20,34 @@
 
 ### about
 
-I live in a heavily customized **Omarchy / Hyprland** desktop and ship small tools that make that setup nicer to use — especially for people who speak Russian and want sharp, square UI instead of default round chrome.
+i break my desktop until it looks intentional.  
+then i package the chaos so friends can install it in one command.
 
-### projects
+if something sharp, purple, and slightly cursed ships from this account — that was me.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### stuff i actually pushed
 
-#### [omarchy-firefox-start](https://github.com/AbobaAI/omarchy-firefox-start)
-
-Local Firefox start page in the Omarchy style: pixel fox, clock, weather, shortcut tiles, optional **Omafox** theme sync, and **angular tabs** via `userChrome.css`.
-
-```bash
-git clone https://github.com/AbobaAI/omarchy-firefox-start.git
-cd omarchy-firefox-start && ./install.sh
-```
-
-</td>
-<td width="50%" valign="top">
-
-#### [keysmith-ru](https://github.com/AbobaAI/keysmith-ru)
-
-Russian fork of [Keysmith](https://github.com/Ahmed-Sinkeat/keysmith) for Omarchy: remap hotkeys from an overlay, with **ЙЦУКЕН → QWERTY** capture and localized app names.
+| | |
+|:--|:--|
+| **[omarchy-firefox-start](https://github.com/AbobaAI/omarchy-firefox-start)** | firefox start page that pretends to be part of the OS (pixel fox included) |
+| **[keysmith-ru](https://github.com/AbobaAI/keysmith-ru)** | keysmith, but it speaks russian and understands йцукен |
 
 ```bash
-git clone https://github.com/AbobaAI/keysmith-ru.git
-cd keysmith-ru && ./install-ru.sh
+# start page
+git clone https://github.com/AbobaAI/omarchy-firefox-start.git && cd omarchy-firefox-start && ./install.sh
+
+# hotkeys (ru)
+git clone https://github.com/AbobaAI/keysmith-ru.git && cd keysmith-ru && ./install-ru.sh
 ```
 
-</td>
-</tr>
-</table>
+### currently
 
-### stack
-
-```text
-desktop   Omarchy · Hyprland · Wayland
-shell     bash · Quickshell plugins
-browser   Firefox + Omafox
-langs     Lua · QML · Python · HTML/CSS
-```
-
-### currently into
-
-- polishing Omarchy plugins and bar widgets  
-- making Linux UI crisp (no soft blur, square corners)  
-- sharing configs that “just install” for friends  
+- making linux ui less soft and more "yes, those corners are square on purpose"
+- translating overlays so мой друг doesn't have to guess
+- collecting the title **professional aboba**
 
 ---
 
 <div align="center">
-
-<sub>built on Omarchy · Zagreb timezone · PRs / issues welcome</sub>
-
+<sub>zagreb timezone · powered by caffeine and hyprland · aboba rights reserved</sub>
 </div>
