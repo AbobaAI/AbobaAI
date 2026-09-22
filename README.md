@@ -42,8 +42,6 @@ git clone https://github.com/AbobaAI/keysmith-ru.git && cd keysmith-ru && ./inst
 
 ### currently
 
-- making linux ui less soft and more "yes, those corners are square on purpose"
-- translating overlays so мой друг doesn't have to guess
 - collecting the title **professional aboba**
 
 ---
