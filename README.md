@@ -4,7 +4,6 @@
 
 <br/>
 
-<img src="assets/avatar.png" alt="aboba" width="140" />
 
 # aboba
 
