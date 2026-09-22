@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="professional aboba" width="100%" />
+<img src="assets/banner.jpg" alt="professional aboba" width="100%" />
 
 <br/>
 
