@@ -23,7 +23,7 @@
 i break my desktop until it looks intentional.  
 then i package the chaos so friends can install it in one command.
 
-if something sharp, purple, and slightly cursed ships from this account — that was me.
+
 
 ### stuff i actually pushed
 
