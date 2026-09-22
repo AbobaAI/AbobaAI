@@ -47,5 +47,5 @@ git clone https://github.com/AbobaAI/keysmith-ru.git && cd keysmith-ru && ./inst
 ---
 
 <div align="center">
-<sub>zagreb timezone · powered by caffeine and hyprland · aboba rights reserved</sub>
+<sub>powered by caffeine and hyprland · aboba rights reserved</sub>
 </div>
